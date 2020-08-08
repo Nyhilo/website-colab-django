@@ -3,7 +3,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 **/__pycache__/
-*.py[codu]
+*.py[codub]
 *$py.class
 
 # C extensions
